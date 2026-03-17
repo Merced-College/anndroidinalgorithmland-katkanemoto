@@ -1,11 +1,3 @@
-/**
- * 
- */
-/**
- * @author kathykanemoto
- *
- */
-module AnnDroidInAlgoorithmLand {
+module anndroidinalgorithmland {
 	requires java.desktop; 
-
 }
