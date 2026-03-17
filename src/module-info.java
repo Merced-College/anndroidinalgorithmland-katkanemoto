@@ -1,3 +1,3 @@
 module anndroidinalgorithmland {
-	requires java.desktop; 
+	requires java.desktop;
 }
